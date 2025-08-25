@@ -1,0 +1,6 @@
+CIRCUITPY_WIFI_SSID="your-wifi-ssid"
+CIRCUITPY_WIFI_PASSWORD="your-wifi-password"
+BROKER="your.broker.address"
+MQTT_CLIENT_ID="mqtt_username"
+MQTT_PASSWORD="mqtt_password"
+DEVICE_ID="xiao-bmi088"
