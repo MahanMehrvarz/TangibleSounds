@@ -97,4 +97,3 @@ to the MQTT topic `orientation`.
 
 ## License
 
-Add a `LICENSE` file (MIT recommended for open‑source sharing).
