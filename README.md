@@ -1,3 +1,8 @@
+
+> **Acknowledgment**  
+> This project *Democratizing Sound Making* is supported by the **Stimuleringsfonds Creatieve Industrie** (Digital Culture programme), application no. **4466106**.
+
+
 # Haptics to Ableton
 
 CircuitPython projects for turning body movement into real‑time sound control in Ableton Live. The system uses a wearable motion sensor (Seeed XIAO S3 + BMI088) that streams orientation values over MQTT, and a receiver board (Adafruit ItsyBitsy M4) that converts those values into MIDI Control Change messages.
