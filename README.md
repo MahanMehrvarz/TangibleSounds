@@ -7,7 +7,7 @@ CircuitPython projects for turning body movement into real‑time sound control 
 ## Repository Layout
 
 ```
-haptics-to-ableton/
+TangibleSounds/
 ├── embeded_controller.py    # XIAO S3 + BMI088 → MQTT (on‑device code)
 ├── midi_receiver.py         # ItsyBitsy M4 → USB‑MIDI (receiver code)
 └── README.md
